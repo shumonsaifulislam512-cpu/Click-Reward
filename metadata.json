@@ -1,0 +1,6 @@
+{
+  "name": "ClickReward bKash PTC Platform",
+  "description": "Full-stack Pay-To-Click (PTC) ad-reward web platform with bKash wallet transactions, cryptographic ad verification, 30-day subscription plans, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
